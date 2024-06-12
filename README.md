@@ -8,4 +8,5 @@ This project is a website that allows customers to easily place orders from busi
 - Easy navigation showcasing menus and special offers from businesses.
 >
 # Screen Gif:
-![Food-side](https://github.com/gurkanceylan41/Food-Site/assets/165313565/3862138c-3165-4c45-b05c-ad46a45ce6b1)
+![Food-side](https://github.com/gurkanceylan41/Food-Website/assets/165313565/89e01c16-426e-4dd9-8899-b113368254ff)
+
