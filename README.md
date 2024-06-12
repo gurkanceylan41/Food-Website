@@ -1,4 +1,4 @@
-# Food-Site
+# Food-Website
 
 This project is a website that allows customers to easily place orders from businesses in the food industry.
 
